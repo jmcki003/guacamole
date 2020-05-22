@@ -5,4 +5,5 @@ cilantro
 limes
 salt
 pepper
-hot sauce
+add hot sauce (optional) 
+mild or hot salsa
