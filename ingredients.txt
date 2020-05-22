@@ -2,3 +2,5 @@ avocados
 tomatoes
 onions
 cilantro
+salt
+pepper
