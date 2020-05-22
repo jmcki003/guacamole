@@ -2,6 +2,6 @@ avocados
 tomatoes
 onions
 cilantro
-garlic
+limes
 salt
 pepper
